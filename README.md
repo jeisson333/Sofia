@@ -13,7 +13,7 @@ Sofía es un agente virtual desarrollado bajo arquitectura basada en Model Conte
 
 ## 📋 Requirements
 
-- Node.js 14.x or higher
+- Node.js 18.x or higher (LTS recommended)
 - ServiceDesk Plus account with API access
 - Microsoft Teams Incoming Webhook URL
 
